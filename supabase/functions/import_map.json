@@ -1,8 +1,0 @@
-{
-    "imports": {
-        "server": "https://deno.land/std@0.168.0/http/server.ts",
-        "lodash": "https://cdn.skypack.dev/lodash",
-        "ethers": "https://cdn.ethers.io/lib/ethers-5.2.esm.min.js",
-        "http_status": "https://deno.land/std/http/http_status.ts"
-    }
-}
